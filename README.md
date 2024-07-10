@@ -13,7 +13,8 @@
 
 
 
-- 🏢 **DAMIETTA University - Faculty of Engineering**
+- 🏢 **Damietta University - Faculty of Engineering**
+
 - 📚 **Hobby**: I love reading books.
 
 ---
@@ -21,9 +22,14 @@
 
 ### Connect with Me :
 
-<a href="[https://www.linkedin.com/in/ahmed-abdul-ghaffar-79535b23a](https://www.linkedin.com/in/mohamed-adnan-556061243/)" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Abdul_Ghaffar-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/mohamed-adnan-556061243" target="_blank"><img src="https://img.shields.io/badge/-Mohamed%20Abdul_Adnan-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+
+
 
 
 ### 🛠 &nbsp;Tech Stack
-![c](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![C](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=C)&nbsp;
+
+
+
 
