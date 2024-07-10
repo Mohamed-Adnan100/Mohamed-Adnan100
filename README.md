@@ -27,7 +27,7 @@
 
 
 ### 🛠 &nbsp;Tech Stack
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C)&nbsp;
+![C](https://img.shields.io/badge/--05122A?style=flat&logo=C)&nbsp;
 
 
 
